@@ -48,5 +48,10 @@ namespace TestApp
         {
             Application.Current.Shutdown();
         }
+
+        private void TextBox_TextChanged()
+        {
+
+        }
     }
 }
